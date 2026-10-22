@@ -1,0 +1,14 @@
+# Binaires Go
+*.exe
+*.test
+*.out
+/groupie-tracker
+bin/
+
+# Packaging Fyne
+*.app/
+
+# OS / éditeur
+.DS_Store
+.idea/
+.vscode/
